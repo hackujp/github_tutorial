@@ -1,0 +1,29 @@
+h1 {
+    color: #FF0000;
+    text-shadow: 0 0 5px white;
+    padding: 0.3em 0.5em;
+    background: -webkit-repeating-linear-gradient(-45deg, #cce7aa, #cce6ff 3px,#e9f4aa 3px, #e9f4ff 8px);
+    background: repeating-linear-gradient(-45deg, #cce7aa, #cce6ff 3px,#e9f4aa 3px, #e9f4ff 8px);
+}
+
+#ok {
+    display       : inline-block;
+    font-weight   : bold;
+    font-size     : 150%;
+    border-bottom : 2px solid #0059b3;
+    font-style    : oblique;
+    color         : #ff0022;
+    animation     : strAnime 3s linear infinite;
+}
+
+@keyframes strAnime {
+    0% {
+        color     : #ffffff;
+    }
+    50% {
+        color     : #ff0022;
+    }
+    100% {
+        color     : #ffffff;
+    }
+}
