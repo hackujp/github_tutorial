@@ -6,22 +6,20 @@
 
 #### 独自で学びたい方へ
 
-[こちら](./setup_github_sourcetree.pdf) の資料を参考に、以下の事前準備を行ってください。
+セットアップ資料 ([Windows](./setup_sourcetree_windows.pdf), [MacOS](./setup_sourcetree_mac.pdf)) を参考に、以下の事前準備を行ってください。
 
 - [GitHub](https://github.co.jp/) のアカウント作成
 - [Sourcetree](https://www.sourcetreeapp.com/) のインストール
-- GitHub と Sourcetree の連携
+- 演習準備
+- GitHubへの疎通確認
 
 準備が完了したら、[学習資料](./githubws_gui.pdf) をダウンロードして、学習しましょう。
 
 
 #### イベント参加者の方へ
 
-イベントに参加される方は [こちら](./setup_for_event.pdf) の資料を参考に、上記に追加で準備を行ってください。
+イベントに参加される方は、こちらのセットアップ資料([Windows](./setup_sourcetree_windows_for_event.pdf), [MacOS](./setup_sourcetree_mac_for_event.pdf)) を参考に、上記に追加で準備を行ってください。
 
-- [GitHub](https://github.co.jp/) のアカウント作成
-- [Sourcetree](https://www.sourcetreeapp.com/) のインストール
-- GitHub と Sourcetree の連携
 - [zoom](https://zoom.us/) のセットアップ
 - slack のセットアップ
   - 招待リンクは connpass で登録後にご連絡します。
@@ -29,12 +27,6 @@
 準備が完了したら、[学習資料](./githubws_gui.pdf) の資料をダウンロードしておきましょう。
 
 ### 資料概要
-
-#### ローカルリポジトリの準備
-
-- リモートリポジトリを clone して、ローカルリポジトリを作成しよう
-- 演習用ファイルをローカルリポジトリにダウンロードしてこよう
--- 演習用ファイルは自作ソースコードでも良いです。
 
 #### Step.1 GitHubの基本動作
 
