@@ -20,5 +20,7 @@ CLI は、Macのターミナル環境、GUI は、Sourcetree の使用を想定�
 GitHubを使った制作物の管理を行えるようになっていること
 
 ## イベント実施
+* 2020/12/14
+  * [【学生限定】はじめての GitHub ワークショップ 〜ソースコードを管理しよう〜](https://hacku.connpass.com/event/197276/)
 * 2020/11/17
   * [【学生限定】はじめての GitHub ワークショップ 〜ソースコードを管理しよう〜](https://hacku.connpass.com/event/192228/)
