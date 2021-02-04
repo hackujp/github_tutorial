@@ -1,5 +1,18 @@
 # GitHub ワークショップ GUI版
 
+## 資料概要
+
+```
+.
+├── README.md //この資料
+├── githubws_gui.pdf // メイン資料
+├── hands-on.zip // 演習で使用するプログラムをまとめたzipファイル
+├── setup_sourcetree_mac.pdf // セットアップ資料(MacOS版)
+├── setup_sourcetree_mac_for_event.pdf // イベント参加者向けセットアップ資料(MacOS版)
+├── setup_sourcetree_windows.pdf // セットアップ資料(Windows版)
+└── setup_sourcetree_windows_for_event.pdf // イベント参加者向けセットアップ資料(Windows版)
+```
+
 ## 学習の進め方
 
 ### 事前準備
@@ -26,7 +39,7 @@
   
 準備が完了したら、[学習資料](./githubws_gui.pdf) の資料をダウンロードしておきましょう。
 
-### 資料概要
+### メイン資料の内容
 
 #### Step.1 GitHubの基本動作
 
@@ -39,14 +52,14 @@
 - リモートリポジトリを確認してみよう
 	- コミットツリーを確認してみよう
 
-### Step.2 作業ブランチを作成して、変更内容の Pull Request を作成
+#### Step.2 作業ブランチを作成して、変更内容の Pull Request を作成
 
-#### Step.2-1 作業ブランチを作成し、ファイルを Push
+##### Step.2-1 作業ブランチを作成し、ファイルを Push
 - ブランチを作成してみよう
 - 作業ブランチでファイルを更新して Push してみよう
 - GitHub で作成したブランチと push したファイルを確認しよう
  
-#### Step.2-2 Pull Request を作成して master に反映
+##### Step.2-2 Pull Request を作成して master に反映
 - GitHub で Pull Request を作成してみよう
 - Pull Request の中身を確認しよう
 	- こだわった点をコメントしよう

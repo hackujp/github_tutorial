@@ -5,21 +5,31 @@ HackU ワークショップイベントで使用する資料になります
 ## ディレクトリ構成
 ```
 .
-├── ver_CLI // CLI(Command Line Interface)用の資料
+├── ver_CUI // CUI(Character User Interface)用の資料
 ├── ver_GUI // GUI(Graphical User Interface)用の資料
+├── ver_Tean // チーム開発ワークショップ用の資料
 └── tips  // 補足資料やコラムなど 
 ```
 
 ## 学習の進め方
 
-CLI は、Macのターミナル環境、GUI は、Sourcetree の使用を想定します。
+### 入門編
 
-[ver_CLI](./ver_CLI), [ver_GUI](./ver_GUI) のディレクトリにアクセスした後、各環境にあった資料を参考にセットアップし、課題を進めていきましょう。
+CUI は、Macのターミナル環境、GUI は、Sourcetree の使用を想定します。
+
+[ver_CUI](./ver_CUI), [ver_GUI](./ver_GUI) のディレクトリにアクセスした後、各環境にあった資料を参考にセットアップし、課題を進めていきましょう。
+
+### チーム開発編
+
+[ver_Team](./ver_Team) のディレクトリにアクセスした後、READMEに従って課題を進めましょう。
 
 ## 学習の目標
 GitHubを使った制作物の管理を行えるようになっていること
 
 ## イベント実施
+
+* 2020/2/21
+  * [【Open Hack U 2020 出場者限定】Git/GitHub チーム開発ワークショップ](https://hacku.connpass.com/event/201550/)
 * 2020/12/14
   * [【学生限定】はじめての GitHub ワークショップ 〜ソースコードを管理しよう〜](https://hacku.connpass.com/event/197276/)
 * 2020/11/17
