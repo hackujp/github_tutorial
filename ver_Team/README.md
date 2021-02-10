@@ -1,42 +1,71 @@
 # GitHub ワークショップ チーム開発
 
+GitHub を用いたチーム開発について一通りの手順を体験してもらう内容になっています。  
+チームメンバー間の GitHub への理解度をチーム内で共有するために使用してください。
+
 ## 資料概要
 ```
 .
 ├── README.md //この資料
 ├── githubws_team.pdf // メイン資料 Coming Soon
-├── hands-on.zip // 演習で使用するプログラムをまとめたzipファイル Coming Soon
-└── setup.pdf // セットアップ資料 Coming Soon
+├── hands-on.zip // 演習で使用するプログラムをまとめたzipファイル
+└── setup_team.pdf // セットアップ資料 
 ```
 
 ## 学習の進め方
 
 ### 前提知識
 
-チームメンバーの全員が「GitHub への add/commit/push」と「branch 作成 ~ PR の作成」を行える必要があります。
+**チームメンバーの全員が「GitHub への add/commit/push」と「branch 作成 ~ PR の作成」を行える必要があります。**
 
-[こちら](https://github.com/hackujp/github_tutorial/tree/main/ver_GUI/) の内容を学習前提で進めていきます。
+前提知識ついて学ぶ際は以下の資料を参考にしてください。
+- GUI（Windows/MacOS）は[こちら](https://github.com/hackujp/github_tutorial/tree/main/ver_GUI/)
+- CUI（MacOSのみ）は[こちら](https://github.com/hackujp/github_tutorial/tree/main/ver_CUI/)
 
 ### 事前準備
 
-[セットアップ資料](./setup_git_team.pdf)を参考に、以下の事前準備を行ってください。
+[セットアップ資料](./setup_team.pdf)を参考に、以下の事前準備を行ってください。
 
 - [GitHub](https://github.co.jp/) でチーム共有のリポジトリ作成
 - 作成したリポジトリにチームメンバーをアサイン
 - [演習ファイル](./team_hands-on.zip)を解凍して、作成したリポジトリに push
-- チームメンバー全員のローカルリポジトリの作成と作業 branch の作成
+- チームメンバー全員のローカルリポジトリの作成
 
-準備が完了したら、[学習資料](./githubws_team.pdf) の資料をダウンロードしておきましょう。
+準備が完了したら、[学習資料](./githubws_team.pdf) （Coming Soon） の資料をダウンロードしておきましょう。
 
 ### メイン資料の内容
 
-#### branch と Pull Request の確認
-- チームメンバーによる PR のmerge
-- コミットツリーの確認
+#### GitHub をチームで使うには
 - Conflict の発生
+- Conflict 解消方法
+- Conflict 未然に防ぐには
 
-#### Webページをチームで開発
-- GitHub を使ってメンバーと協力しながら Web ページを作成
-	- 編集内容やメンバー役割は資料内に記載されています。
+#### ハンズオン  
+**Webページ で動く電卓 をチーム開発**  
+JavaScript を使ったサンプルプログラムに追加の実装をして電卓アプリを作成します。  
+手順や実装コードは資料内に記載してありますので、JavaScript 未経験でも問題はありません。  
 
-また、複数人で学習することを前提とした作りになっていますが、branch を使い分けることで個人でも学習するも可能です。
+**進め方**  
+チーム内で役割を決め、作業を行っていきます。
+
+- コード実装者 A (
+	- 作業ブランチ名: 演習1 A1, 演習2 A2
+- コード実装者 B
+	- 作業ブランチ名: 演習1 B1, 演習2 B2
+- レビュアー 
+
+1. 演習開始時に指定されたブランチを作成
+2. 実装者は指定されたコードを実装して、PR を作成
+3. PR をレビュアーが確認
+	1. Conflict やその他修正箇所があればコメントで指摘
+	2. 修正箇所が合った場合はそれぞれの実装者が修正して再度レビュー
+4. すべての実装が済んだら、index.html を手元のブラウザで動作確認
+
+このハンズオンは複数人で作業することを前提とした作りになっています。  
+個人で行う際には、branch を使い分けることで個人でも学習するも可能です。
+
+#### Appendix
+- gitignore の使い方
+- ロールバック
+- ブランチの使い方
+- コードレビューについて

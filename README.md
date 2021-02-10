@@ -28,7 +28,7 @@ GitHubを使った制作物の管理を行えるようになっていること
 
 ## イベント実施
 
-* 2020/2/21
+* 2020/2/17
   * [【Open Hack U 2020 出場者限定】Git/GitHub チーム開発ワークショップ](https://hacku.connpass.com/event/201550/)
 * 2020/12/14
   * [【学生限定】はじめての GitHub ワークショップ 〜ソースコードを管理しよう〜](https://hacku.connpass.com/event/197276/)
