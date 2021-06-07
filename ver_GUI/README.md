@@ -1,3 +1,13 @@
+# こちらの資料は非推奨です
+
+下記のリンクから別のツールを使う資料を参考にしてください。
+
+推奨環境はVSCodeを用いたものになっています。
+
+- [ver_VSCode](../ver_VSCode): Windows/MacのVisual Studio Code環境
+- [ver_CUI](../ver_CUI): Macのターミナル環境
+
+
 # GitHub ワークショップ GUI版
 
 ## 資料概要
