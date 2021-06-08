@@ -35,7 +35,7 @@
 
 #### イベント参加者の方へ
 
-イベントに参加される方は、上記の「独自で学びたい方へ」の手順を実施の上、こちらの[イベント参加の事前準備](https://github.com/hackujp/setup_for_event/blob/main/setup_tools_for_event.pdf)を参考に、イベントで使うツールや推奨環境を準備してください。
+イベントに参加される方は、こちらの[イベント参加の事前準備](https://github.com/hackujp/setup_for_event/blob/main/setup_tools_for_event.pdf)を参考に、イベントで使うツールや推奨環境を準備してください。
 
 - [Zoom](https://zoom.us/) のセットアップ
 - Slack のセットアップ
@@ -71,7 +71,7 @@
 	- こだわった点をコメントしよう
 - Pull Request を merge しよう
 	- GitHub 上で main ブランチのファイル内容を確認しよう
-- ローカルリポジトリの masin ブランチを更新するため Pull しよう
+- ローカルリポジトリの main ブランチを更新するため Pull しよう
 	- ローカルリポジトリで main ブランチの変更を確認しよう
 
 ## 参考資料リンク
