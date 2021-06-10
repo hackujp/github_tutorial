@@ -19,7 +19,7 @@ GitHub を用いたチーム開発について一通りの手順を体験して�
 **チームメンバーの全員が「GitHub への add/commit/push」と「branch 作成 ~ PR の作成」を行える必要があります。**
 
 前提知識ついて学ぶ際は以下の資料を参考にしてください。
-- GUI（Windows/MacOS）は[こちら](https://github.com/hackujp/github_tutorial/tree/main/ver_GUI/)
+- 推奨環境（VSCode環境）は[こちら](https://github.com/hackujp/github_tutorial/tree/main/ver_VSCode/)
 - CUI（MacOSのみ）は[こちら](https://github.com/hackujp/github_tutorial/tree/main/ver_CUI/)
 
 ### 事前準備

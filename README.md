@@ -1,13 +1,20 @@
 # github_tutorial
-HackU ワークショップイベントで使用する資料になります
-イベント参加者でなくても一通り理解できるように資料を揃えているため、興味ある方は参照してください
+Hack U ワークショップイベントで使用する資料になります。
+
+イベント参加者でなくても一通り理解できるように資料を揃えています。
+
+ワークショップイベントでは、Visual Studio Code（VSCode）を使用する環境を推奨しています。
+
+## 学習の目標
+GitHubを使った制作物の管理を行えるようになっていること。
 
 ## ディレクトリ構成
 ```
 .
-├── ver_CUI // CUI(Character User Interface)用の資料
-├── ver_GUI // GUI(Graphical User Interface)用の資料
+├── ver_CUI // ターミナルを使った資料
+├── ver_GUI //（非推奨）Sourcetreeを使った資料
 ├── ver_Tean // チーム開発ワークショップ用の資料
+├── ver_VSCode // Visual Studio Codeを使った資料
 └── tips  // 補足資料やコラムなど 
 ```
 
@@ -15,16 +22,22 @@ HackU ワークショップイベントで使用する資料になります
 
 ### 入門編
 
-CUI は、Macのターミナル環境、GUI は、Sourcetree の使用を想定します。
+Git･GitHubのセットアップから基本的な操作を学べます。
 
-[ver_CUI](./ver_CUI), [ver_GUI](./ver_GUI) のディレクトリにアクセスした後、各環境にあった資料を参考にセットアップし、課題を進めていきましょう。
+- （推奨）[ver_VSCode](./ver_VSCode): Windows/MacのVisual Studio Code環境 
+- [ver_CUI](./ver_CUI): Macのターミナル環境
+- （非推奨）[ver_VSCode](./ver_VSCode):  Sourcetree環境
+
+各ディレクトリにアクセスした後、READMEに従って進めていきましょう。
 
 ### チーム開発編
 
-[ver_Team](./ver_Team) のディレクトリにアクセスした後、READMEに従って課題を進めましょう。
+GitHubを使ってチーム開発をする基本的な流れを学べます。
 
-## 学習の目標
-GitHubを使った制作物の管理を行えるようになっていること
+資料は、複数人で行うことを前提にしているため、チームメンバーと一緒行いましょう。
+
+[ver_Team](./ver_Team) のディレクトリにアクセスした後、READMEに従って進めてください。
+
 
 ## イベント実施
 
