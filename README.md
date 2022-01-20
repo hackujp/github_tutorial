@@ -6,16 +6,15 @@ Hack U ワークショップイベントで使用する資料になります。
 ワークショップイベントでは、Visual Studio Code（VSCode）を使用する環境を推奨しています。
 
 ## 学習の目標
-GitHubを使った制作物の管理を行えるようになっていること。
+GitHubを使って制作物の管理を行えるようになっていること。
 
 ## ディレクトリ構成
 ```
 .
-├── ver_CUI // ターミナルを使った資料
-├── ver_GUI //（非推奨）Sourcetreeを使った資料
-├── ver_Tean // チーム開発ワークショップ用の資料
-├── ver_VSCode // Visual Studio Codeを使った資料
-└── tips  // 補足資料やコラムなど 
+├── Basics // [基礎編] Visual Studio Codeを使った資料
+├── CUI // [基礎編] ターミナルを使った資料 
+├── Old // 過去に使用したSourcetreeを使った資料(更新なし)
+└── Team // [チーム開発編] チーム開発ワークショップ用の資料
 ```
 
 ## 学習の進め方
@@ -24,11 +23,12 @@ GitHubを使った制作物の管理を行えるようになっていること�
 
 Git･GitHubのセットアップから基本的な操作を学べます。
 
-- （推奨）[ver_VSCode](./ver_VSCode): Windows/MacのVisual Studio Code環境 
-- [ver_CUI](./ver_CUI): Macのターミナル環境
-- （非推奨）[ver_VSCode](./ver_VSCode):  Sourcetree環境
+Gitの構築環境によって資料が変わります。
 
-各ディレクトリにアクセスした後、READMEに従って進めていきましょう。
+- （推奨）[Basics](./Basics): Windows/MacのVisual Studio Code環境 
+- [CUI](./CUI): Macのターミナル環境
+
+自身の環境に対応したフォルダにアクセスした後、READMEに従って進めていきましょう。
 
 ### チーム開発編
 
@@ -36,12 +36,16 @@ GitHubを使ってチーム開発をする基本的な流れを学べます。
 
 資料は、複数人で行うことを前提にしているため、チームメンバーと一緒行いましょう。
 
-[ver_Team](./ver_Team) のディレクトリにアクセスした後、READMEに従って進めてください。
+- [Team](./Team) のフォルダにアクセスした後、READMEに従って進めてください。
 
 
-## イベント実施
+## イベント実施日
 
 * 2021年度開催
+  * 2021/7/16
+    * [【Open Hack U 2021 出場者限定】Git/GitHubチーム開発ワークショップ](https://hacku.connpass.com/event/215324/)
+  * 2021/6/18
+    * [【学生限定】【VSCode】ソースコード管理ツール Git/GitHub 基礎 ワークショップ](https://hacku.connpass.com/event/215318/)
 
 * 2020年度開催
   * 2021/2/17

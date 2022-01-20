@@ -7,8 +7,8 @@ GitHub を用いたチーム開発について一通りの手順を体験して�
 ```
 .
 ├── README.md //この資料
-├── githubws_team.pdf // （old）チーム開発のみの資料
-├── githubws_allin.pdf // メイン資料
+├── githubws_team.pdf // チーム開発のみの資料
+├── githubws_allin.pdf // 基礎編とチーム開発編を合わせた資料
 ├── hands-on.zip // 演習で使用するプログラムをまとめたzipファイル
 └── setup_team.pdf // チーム開発のセットアップ資料 
 ```
@@ -25,7 +25,7 @@ GitHub を用いたチーム開発について一通りの手順を体験して�
 
 ### 事前準備
 
-**Gitの環境構築を行っていない方**は、[こちら](https://github.com/hackujp/github_tutorial/tree/main/ver_VSCode)のREADMEを参考に環境構築を行ってください
+**Gitの環境構築を行っていない方**は、[こちら](https://github.com/hackujp/github_tutorial/tree/main/Basics)のREADMEを参考に環境構築を行ってください
 
 チーム開発演習の準備として[セットアップ資料](./setup_team.pdf)を参考に、以下の事前準備を行ってください。
 
@@ -38,7 +38,7 @@ GitHub を用いたチーム開発について一通りの手順を体験して�
 
 ### メイン資料の内容
 
-#### Git/GitHubの基本機能おさらい（[ver_VScode](https://github.com/hackujp/github_tutorial/blob/main/ver_VSCode/githubws_vscode.pdf)の内容になります）
+#### Git/GitHubの基本機能おさらい（[ver_VScode](https://github.com/hackujp/github_tutorial/blob/main/Basics/githubws_vscode.pdf)の内容になります）
 - Gitとは
 - GitHubの基本操作（clone, add, commit, push）
 - 作業用ブランチの作成 （ブランチ, チェックアウト）
